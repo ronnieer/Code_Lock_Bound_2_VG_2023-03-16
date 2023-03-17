@@ -1,0 +1,12 @@
+/.vscode
+/A_mainMenuF.o
+/C_enterCardDataF.o
+/D_setAccessF.o
+/E_listCardDataF.o
+/F_enterDateAndTimeF.o
+/G_InputNewUserF.o
+/G_memoryAllocationF.o
+/H_SafeInput.o
+/J_fakeTestScan.o
+/main.exe
+/main.o
